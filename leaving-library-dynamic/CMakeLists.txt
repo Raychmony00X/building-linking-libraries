@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(Leaving)
+add_library(LeavingLibraryDynamic SHARED Leaving.h Leaving.cpp)
+add_executable(LeavingExe LeavingMain.cpp)
+target_link_libraries(LeavingExe LeavingLibraryDynamic)

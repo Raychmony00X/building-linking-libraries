@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LeavingLibraryDynamic/LeavingLibraryDynamic.vcxproj" Id="6996a9b7-b757-4f46-9b47-1d2c8f988908" />
+  <Project Path="LeavingMain/LeavingMain.vcxproj" Id="c288794b-6947-4209-af83-4bdb642690b7" />
+</Solution>
