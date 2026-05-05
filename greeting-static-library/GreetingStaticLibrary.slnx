@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="GreetingMain/GreetingMain.vcxproj" Id="24294b8d-79b7-4437-8161-c87398103131" />
+  <Project Path="GreetingStaticLibrary/GreetingStaticLibrary.vcxproj" Id="4557d5e2-d0b3-4fee-9a04-0145fc3e3355" />
+</Solution>

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.0)
+project(Greeting)
+add_library(GreetingStaticLibrary STATIC Greeting.h Greeting.cpp)
+add_executable(GreetingMainExe GreetingMain.cpp)
+target_link_libraries(GreetingMainExe GreetingStaticLibrary)
